@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1732866746 source:c:\users\hokag\onedrive\desktop\haffman\main.cpp
+	<iostream>
+	<vector>
+	<string>
+	<list>
+	<map>
+
